@@ -1,2 +1,2 @@
 # Telugu_NLP
-a small contributions to the development of Telugu NLP
+Identification of Characters in Telugu script.
